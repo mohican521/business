@@ -84,7 +84,6 @@ public class MessageMapperTest {
 //	    assertEquals(new Long(2), messageModel.getTemplateId());
 //	    assertEquals("test2", messageModel.getTemplateName());
 //	    assertEquals("test2", messageModel.getTitle());
-//	    assertEquals("test2", messageModel.getTitle());
 	    assertEquals(new Integer(1), messageModel.getType());
 	}
 
